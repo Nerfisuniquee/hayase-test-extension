@@ -1,0 +1,9 @@
+{
+  "id": "hayase.test",
+  "name": "Hayase Test Extension",
+  "version": "1.0.0",
+  "description": "Minimal test extension for Hayase on macOS",
+  "author": "local",
+  "type": "source",
+  "main": "index.js"
+}
